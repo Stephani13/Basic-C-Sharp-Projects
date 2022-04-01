@@ -1,0 +1,14 @@
+C:\Users\tiffy\Desktop\Basic_C#_Programs\ConsoleApplication\ConsoleApplication.cs\bin\Debug\netcoreapp3.1\ConsoleApplication.cs.exe
+C:\Users\tiffy\Desktop\Basic_C#_Programs\ConsoleApplication\ConsoleApplication.cs\bin\Debug\netcoreapp3.1\ConsoleApplication.cs.deps.json
+C:\Users\tiffy\Desktop\Basic_C#_Programs\ConsoleApplication\ConsoleApplication.cs\bin\Debug\netcoreapp3.1\ConsoleApplication.cs.runtimeconfig.json
+C:\Users\tiffy\Desktop\Basic_C#_Programs\ConsoleApplication\ConsoleApplication.cs\bin\Debug\netcoreapp3.1\ConsoleApplication.cs.runtimeconfig.dev.json
+C:\Users\tiffy\Desktop\Basic_C#_Programs\ConsoleApplication\ConsoleApplication.cs\bin\Debug\netcoreapp3.1\ConsoleApplication.cs.dll
+C:\Users\tiffy\Desktop\Basic_C#_Programs\ConsoleApplication\ConsoleApplication.cs\bin\Debug\netcoreapp3.1\ConsoleApplication.cs.pdb
+C:\Users\tiffy\Desktop\Basic_C#_Programs\ConsoleApplication\ConsoleApplication.cs\obj\Debug\netcoreapp3.1\ConsoleApplication.cs.csproj.AssemblyReference.cache
+C:\Users\tiffy\Desktop\Basic_C#_Programs\ConsoleApplication\ConsoleApplication.cs\obj\Debug\netcoreapp3.1\ConsoleApplication.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiffy\Desktop\Basic_C#_Programs\ConsoleApplication\ConsoleApplication.cs\obj\Debug\netcoreapp3.1\ConsoleApplication.cs.AssemblyInfoInputs.cache
+C:\Users\tiffy\Desktop\Basic_C#_Programs\ConsoleApplication\ConsoleApplication.cs\obj\Debug\netcoreapp3.1\ConsoleApplication.cs.AssemblyInfo.cs
+C:\Users\tiffy\Desktop\Basic_C#_Programs\ConsoleApplication\ConsoleApplication.cs\obj\Debug\netcoreapp3.1\ConsoleApplication.cs.csproj.CoreCompileInputs.cache
+C:\Users\tiffy\Desktop\Basic_C#_Programs\ConsoleApplication\ConsoleApplication.cs\obj\Debug\netcoreapp3.1\ConsoleApplication.cs.dll
+C:\Users\tiffy\Desktop\Basic_C#_Programs\ConsoleApplication\ConsoleApplication.cs\obj\Debug\netcoreapp3.1\ConsoleApplication.cs.pdb
+C:\Users\tiffy\Desktop\Basic_C#_Programs\ConsoleApplication\ConsoleApplication.cs\obj\Debug\netcoreapp3.1\ConsoleApplication.cs.genruntimeconfig.cache
