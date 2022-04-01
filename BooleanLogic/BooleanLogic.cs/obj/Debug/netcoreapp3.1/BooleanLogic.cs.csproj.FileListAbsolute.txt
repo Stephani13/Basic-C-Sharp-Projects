@@ -1,0 +1,13 @@
+C:\Users\tiffy\source\repos\BooleanLogic\BooleanLogic.cs\obj\Debug\netcoreapp3.1\BooleanLogic.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiffy\source\repos\BooleanLogic\BooleanLogic.cs\obj\Debug\netcoreapp3.1\BooleanLogic.cs.AssemblyInfoInputs.cache
+C:\Users\tiffy\source\repos\BooleanLogic\BooleanLogic.cs\obj\Debug\netcoreapp3.1\BooleanLogic.cs.AssemblyInfo.cs
+C:\Users\tiffy\source\repos\BooleanLogic\BooleanLogic.cs\obj\Debug\netcoreapp3.1\BooleanLogic.cs.csproj.CoreCompileInputs.cache
+C:\Users\tiffy\source\repos\BooleanLogic\BooleanLogic.cs\bin\Debug\netcoreapp3.1\BooleanLogic.cs.exe
+C:\Users\tiffy\source\repos\BooleanLogic\BooleanLogic.cs\bin\Debug\netcoreapp3.1\BooleanLogic.cs.deps.json
+C:\Users\tiffy\source\repos\BooleanLogic\BooleanLogic.cs\bin\Debug\netcoreapp3.1\BooleanLogic.cs.runtimeconfig.json
+C:\Users\tiffy\source\repos\BooleanLogic\BooleanLogic.cs\bin\Debug\netcoreapp3.1\BooleanLogic.cs.runtimeconfig.dev.json
+C:\Users\tiffy\source\repos\BooleanLogic\BooleanLogic.cs\bin\Debug\netcoreapp3.1\BooleanLogic.cs.dll
+C:\Users\tiffy\source\repos\BooleanLogic\BooleanLogic.cs\bin\Debug\netcoreapp3.1\BooleanLogic.cs.pdb
+C:\Users\tiffy\source\repos\BooleanLogic\BooleanLogic.cs\obj\Debug\netcoreapp3.1\BooleanLogic.cs.dll
+C:\Users\tiffy\source\repos\BooleanLogic\BooleanLogic.cs\obj\Debug\netcoreapp3.1\BooleanLogic.cs.pdb
+C:\Users\tiffy\source\repos\BooleanLogic\BooleanLogic.cs\obj\Debug\netcoreapp3.1\BooleanLogic.cs.genruntimeconfig.cache
