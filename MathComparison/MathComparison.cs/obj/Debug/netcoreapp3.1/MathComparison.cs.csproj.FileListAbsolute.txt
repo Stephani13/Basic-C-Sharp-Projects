@@ -1,0 +1,14 @@
+C:\Users\tiffy\Desktop\Basic_C#_Programs\MathComparison\MathComparison.cs\bin\Debug\netcoreapp3.1\MathComparison.cs.exe
+C:\Users\tiffy\Desktop\Basic_C#_Programs\MathComparison\MathComparison.cs\bin\Debug\netcoreapp3.1\MathComparison.cs.deps.json
+C:\Users\tiffy\Desktop\Basic_C#_Programs\MathComparison\MathComparison.cs\bin\Debug\netcoreapp3.1\MathComparison.cs.runtimeconfig.json
+C:\Users\tiffy\Desktop\Basic_C#_Programs\MathComparison\MathComparison.cs\bin\Debug\netcoreapp3.1\MathComparison.cs.runtimeconfig.dev.json
+C:\Users\tiffy\Desktop\Basic_C#_Programs\MathComparison\MathComparison.cs\bin\Debug\netcoreapp3.1\MathComparison.cs.dll
+C:\Users\tiffy\Desktop\Basic_C#_Programs\MathComparison\MathComparison.cs\bin\Debug\netcoreapp3.1\MathComparison.cs.pdb
+C:\Users\tiffy\Desktop\Basic_C#_Programs\MathComparison\MathComparison.cs\obj\Debug\netcoreapp3.1\MathComparison.cs.csproj.AssemblyReference.cache
+C:\Users\tiffy\Desktop\Basic_C#_Programs\MathComparison\MathComparison.cs\obj\Debug\netcoreapp3.1\MathComparison.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiffy\Desktop\Basic_C#_Programs\MathComparison\MathComparison.cs\obj\Debug\netcoreapp3.1\MathComparison.cs.AssemblyInfoInputs.cache
+C:\Users\tiffy\Desktop\Basic_C#_Programs\MathComparison\MathComparison.cs\obj\Debug\netcoreapp3.1\MathComparison.cs.AssemblyInfo.cs
+C:\Users\tiffy\Desktop\Basic_C#_Programs\MathComparison\MathComparison.cs\obj\Debug\netcoreapp3.1\MathComparison.cs.csproj.CoreCompileInputs.cache
+C:\Users\tiffy\Desktop\Basic_C#_Programs\MathComparison\MathComparison.cs\obj\Debug\netcoreapp3.1\MathComparison.cs.dll
+C:\Users\tiffy\Desktop\Basic_C#_Programs\MathComparison\MathComparison.cs\obj\Debug\netcoreapp3.1\MathComparison.cs.pdb
+C:\Users\tiffy\Desktop\Basic_C#_Programs\MathComparison\MathComparison.cs\obj\Debug\netcoreapp3.1\MathComparison.cs.genruntimeconfig.cache
