@@ -1,0 +1,14 @@
+C:\Users\tiffy\Documents\GitHub\Basic-C-Sharp-Projects\Methods and Objects Submission\Methods and Objects Submission\bin\Debug\netcoreapp3.1\Methods and Objects Submission.exe
+C:\Users\tiffy\Documents\GitHub\Basic-C-Sharp-Projects\Methods and Objects Submission\Methods and Objects Submission\bin\Debug\netcoreapp3.1\Methods and Objects Submission.deps.json
+C:\Users\tiffy\Documents\GitHub\Basic-C-Sharp-Projects\Methods and Objects Submission\Methods and Objects Submission\bin\Debug\netcoreapp3.1\Methods and Objects Submission.runtimeconfig.json
+C:\Users\tiffy\Documents\GitHub\Basic-C-Sharp-Projects\Methods and Objects Submission\Methods and Objects Submission\bin\Debug\netcoreapp3.1\Methods and Objects Submission.runtimeconfig.dev.json
+C:\Users\tiffy\Documents\GitHub\Basic-C-Sharp-Projects\Methods and Objects Submission\Methods and Objects Submission\bin\Debug\netcoreapp3.1\Methods and Objects Submission.dll
+C:\Users\tiffy\Documents\GitHub\Basic-C-Sharp-Projects\Methods and Objects Submission\Methods and Objects Submission\bin\Debug\netcoreapp3.1\Methods and Objects Submission.pdb
+C:\Users\tiffy\Documents\GitHub\Basic-C-Sharp-Projects\Methods and Objects Submission\Methods and Objects Submission\obj\Debug\netcoreapp3.1\Methods and Objects Submission.csproj.AssemblyReference.cache
+C:\Users\tiffy\Documents\GitHub\Basic-C-Sharp-Projects\Methods and Objects Submission\Methods and Objects Submission\obj\Debug\netcoreapp3.1\Methods and Objects Submission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiffy\Documents\GitHub\Basic-C-Sharp-Projects\Methods and Objects Submission\Methods and Objects Submission\obj\Debug\netcoreapp3.1\Methods and Objects Submission.AssemblyInfoInputs.cache
+C:\Users\tiffy\Documents\GitHub\Basic-C-Sharp-Projects\Methods and Objects Submission\Methods and Objects Submission\obj\Debug\netcoreapp3.1\Methods and Objects Submission.AssemblyInfo.cs
+C:\Users\tiffy\Documents\GitHub\Basic-C-Sharp-Projects\Methods and Objects Submission\Methods and Objects Submission\obj\Debug\netcoreapp3.1\Methods and Objects Submission.csproj.CoreCompileInputs.cache
+C:\Users\tiffy\Documents\GitHub\Basic-C-Sharp-Projects\Methods and Objects Submission\Methods and Objects Submission\obj\Debug\netcoreapp3.1\Methods and Objects Submission.dll
+C:\Users\tiffy\Documents\GitHub\Basic-C-Sharp-Projects\Methods and Objects Submission\Methods and Objects Submission\obj\Debug\netcoreapp3.1\Methods and Objects Submission.pdb
+C:\Users\tiffy\Documents\GitHub\Basic-C-Sharp-Projects\Methods and Objects Submission\Methods and Objects Submission\obj\Debug\netcoreapp3.1\Methods and Objects Submission.genruntimeconfig.cache
