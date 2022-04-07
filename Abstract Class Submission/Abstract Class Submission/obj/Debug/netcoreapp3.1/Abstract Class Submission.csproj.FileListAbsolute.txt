@@ -1,0 +1,14 @@
+C:\Users\tiffy\Documents\GitHub\Basic-C-Sharp-Projects\Abstract Class Submission\Abstract Class Submission\obj\Debug\netcoreapp3.1\Abstract Class Submission.csproj.AssemblyReference.cache
+C:\Users\tiffy\Documents\GitHub\Basic-C-Sharp-Projects\Abstract Class Submission\Abstract Class Submission\obj\Debug\netcoreapp3.1\Abstract Class Submission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiffy\Documents\GitHub\Basic-C-Sharp-Projects\Abstract Class Submission\Abstract Class Submission\obj\Debug\netcoreapp3.1\Abstract Class Submission.AssemblyInfoInputs.cache
+C:\Users\tiffy\Documents\GitHub\Basic-C-Sharp-Projects\Abstract Class Submission\Abstract Class Submission\obj\Debug\netcoreapp3.1\Abstract Class Submission.AssemblyInfo.cs
+C:\Users\tiffy\Documents\GitHub\Basic-C-Sharp-Projects\Abstract Class Submission\Abstract Class Submission\obj\Debug\netcoreapp3.1\Abstract Class Submission.csproj.CoreCompileInputs.cache
+C:\Users\tiffy\Documents\GitHub\Basic-C-Sharp-Projects\Abstract Class Submission\Abstract Class Submission\bin\Debug\netcoreapp3.1\Abstract Class Submission.exe
+C:\Users\tiffy\Documents\GitHub\Basic-C-Sharp-Projects\Abstract Class Submission\Abstract Class Submission\bin\Debug\netcoreapp3.1\Abstract Class Submission.deps.json
+C:\Users\tiffy\Documents\GitHub\Basic-C-Sharp-Projects\Abstract Class Submission\Abstract Class Submission\bin\Debug\netcoreapp3.1\Abstract Class Submission.runtimeconfig.json
+C:\Users\tiffy\Documents\GitHub\Basic-C-Sharp-Projects\Abstract Class Submission\Abstract Class Submission\bin\Debug\netcoreapp3.1\Abstract Class Submission.runtimeconfig.dev.json
+C:\Users\tiffy\Documents\GitHub\Basic-C-Sharp-Projects\Abstract Class Submission\Abstract Class Submission\bin\Debug\netcoreapp3.1\Abstract Class Submission.dll
+C:\Users\tiffy\Documents\GitHub\Basic-C-Sharp-Projects\Abstract Class Submission\Abstract Class Submission\bin\Debug\netcoreapp3.1\Abstract Class Submission.pdb
+C:\Users\tiffy\Documents\GitHub\Basic-C-Sharp-Projects\Abstract Class Submission\Abstract Class Submission\obj\Debug\netcoreapp3.1\Abstract Class Submission.dll
+C:\Users\tiffy\Documents\GitHub\Basic-C-Sharp-Projects\Abstract Class Submission\Abstract Class Submission\obj\Debug\netcoreapp3.1\Abstract Class Submission.pdb
+C:\Users\tiffy\Documents\GitHub\Basic-C-Sharp-Projects\Abstract Class Submission\Abstract Class Submission\obj\Debug\netcoreapp3.1\Abstract Class Submission.genruntimeconfig.cache
