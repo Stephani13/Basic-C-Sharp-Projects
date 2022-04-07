@@ -1,0 +1,14 @@
+C:\Users\tiffy\Desktop\Basic_C#_Programs\Method part3 submission\Method part3 submission\bin\Debug\netcoreapp3.1\Method part3 submission.exe
+C:\Users\tiffy\Desktop\Basic_C#_Programs\Method part3 submission\Method part3 submission\bin\Debug\netcoreapp3.1\Method part3 submission.deps.json
+C:\Users\tiffy\Desktop\Basic_C#_Programs\Method part3 submission\Method part3 submission\bin\Debug\netcoreapp3.1\Method part3 submission.runtimeconfig.json
+C:\Users\tiffy\Desktop\Basic_C#_Programs\Method part3 submission\Method part3 submission\bin\Debug\netcoreapp3.1\Method part3 submission.runtimeconfig.dev.json
+C:\Users\tiffy\Desktop\Basic_C#_Programs\Method part3 submission\Method part3 submission\bin\Debug\netcoreapp3.1\Method part3 submission.dll
+C:\Users\tiffy\Desktop\Basic_C#_Programs\Method part3 submission\Method part3 submission\bin\Debug\netcoreapp3.1\Method part3 submission.pdb
+C:\Users\tiffy\Desktop\Basic_C#_Programs\Method part3 submission\Method part3 submission\obj\Debug\netcoreapp3.1\Method part3 submission.csproj.AssemblyReference.cache
+C:\Users\tiffy\Desktop\Basic_C#_Programs\Method part3 submission\Method part3 submission\obj\Debug\netcoreapp3.1\Method part3 submission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiffy\Desktop\Basic_C#_Programs\Method part3 submission\Method part3 submission\obj\Debug\netcoreapp3.1\Method part3 submission.AssemblyInfoInputs.cache
+C:\Users\tiffy\Desktop\Basic_C#_Programs\Method part3 submission\Method part3 submission\obj\Debug\netcoreapp3.1\Method part3 submission.AssemblyInfo.cs
+C:\Users\tiffy\Desktop\Basic_C#_Programs\Method part3 submission\Method part3 submission\obj\Debug\netcoreapp3.1\Method part3 submission.csproj.CoreCompileInputs.cache
+C:\Users\tiffy\Desktop\Basic_C#_Programs\Method part3 submission\Method part3 submission\obj\Debug\netcoreapp3.1\Method part3 submission.dll
+C:\Users\tiffy\Desktop\Basic_C#_Programs\Method part3 submission\Method part3 submission\obj\Debug\netcoreapp3.1\Method part3 submission.pdb
+C:\Users\tiffy\Desktop\Basic_C#_Programs\Method part3 submission\Method part3 submission\obj\Debug\netcoreapp3.1\Method part3 submission.genruntimeconfig.cache
