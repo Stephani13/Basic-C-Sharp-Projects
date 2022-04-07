@@ -17,8 +17,8 @@ namespace MainMethod_Submission
             Console.WriteLine(multiplyResult);
 
             int resultSubstract = Mathoperation.MathOperation("2", "33");
-            int resultsubstract = Convert.ToInt32(resultSubstract);
-            Console.WriteLine(resultsubstract);
+            
+            Console.WriteLine(resultSubstract);
         }
     }
 }
