@@ -8,7 +8,7 @@ namespace Abstract_Class_Submission
     {
         public override void SayName()
         {
-            base.SayName();
+            Console.WriteLine("Name: " + firstName + lastName);
         }
     }
 }

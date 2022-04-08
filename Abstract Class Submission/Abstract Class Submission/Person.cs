@@ -6,12 +6,9 @@ namespace Abstract_Class_Submission
 {
     abstract class Person
     {
-        public string firstname { get; set; }
+        public string firstName { get; set; }
         public string lastName { get; set; }
 
-        public virtual void SayName()
-        {
-            Console.WriteLine("Name: " + firstname +lastName);
-        }
-    }
+        public abstract void SayName();
+    }  
 }

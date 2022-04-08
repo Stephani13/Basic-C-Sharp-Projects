@@ -7,7 +7,7 @@ namespace Abstract_Class_Submission
         static void Main(string[] args)
         {
             Employee test = new Employee();
-            test.firstname = "Sample";
+            test.firstName = "Sample";
             test.lastName = " Student";
 
             test.SayName();
