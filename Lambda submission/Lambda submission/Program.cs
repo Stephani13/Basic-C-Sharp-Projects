@@ -28,6 +28,8 @@ namespace Lambda_submission
                 Console.WriteLine( "First Name: " + employee.FirstName + " \nLast Name: " + employee.LastName + "\n");
             }
 
+
+            Console.ReadLine();
             
         }
 
