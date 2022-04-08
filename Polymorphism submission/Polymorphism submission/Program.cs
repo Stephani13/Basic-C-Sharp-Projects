@@ -7,11 +7,10 @@ namespace Polymorphism_submission
         static void Main(string[] args)
         {
 
-            Employee test = new Employee();
-            test.firstname = "Sample";
-            test.lastName = " Student";
+            IQuittable test = new Employee();
+            
             test.Quit();
-            test.SayName();
+            
         }
     }
 }
