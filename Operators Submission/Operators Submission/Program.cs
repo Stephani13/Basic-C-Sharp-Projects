@@ -7,12 +7,15 @@ namespace Operators_Submission
         static void Main(string[] args)
         {
 
-            Employee test = new Employee();
-            int employee1 = test.Id = 113;
-            int employee2 = test.Id = 114;
+            Employee employee1 = new Employee();
+            employee1.Id = 1012;
 
-            bool result = Employee.Equals(employee1, employee2);
-            Console.WriteLine(result);
+
+            Employee employee2 = new Employee();
+            employee2.Id = 1021;
+
+            Console.WriteLine("Is employee1 the same as employee2 id?");
+            Console.WriteLine(employee1 == employee2);
             
             
 

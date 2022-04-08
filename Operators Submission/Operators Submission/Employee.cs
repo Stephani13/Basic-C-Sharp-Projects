@@ -14,11 +14,14 @@ namespace Operators_Submission
 
         public static bool operator == (Employee employee1, Employee employee2)
         {
-            return employee1.Id == employee2.Id;
+            bool result = employee1.Id == employee2.Id;
+            return result;
         }
         public static bool operator !=(Employee employee1, Employee employee2)
         {
-            return employee1.Id != employee2.Id;
+            bool result = employee1.Id != employee2.Id;
+            return result;
         }
+
     }
 }
