@@ -12,11 +12,13 @@ namespace Class_Submission
             //asking user for input
             Console.WriteLine("Please choose a number: ");
             int number = Convert.ToInt32(Console.ReadLine());
-            int number2 = Methods.Adding(out i);
+            int number2 = operation.Adding(out i);
             
             //calling the class
-            Methods.MathOperations(number );
-            Methods.MathOperations(number, number2);
+            operation.MathOperations(number );
+            operation.MathOperations(number, number2);
+
+            Method1.method(number);
             
         }
     }
