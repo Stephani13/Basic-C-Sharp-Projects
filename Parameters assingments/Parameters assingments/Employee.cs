@@ -6,6 +6,7 @@ namespace Parameters_assingments
 {
     class Employee<T> :Person
     {
-        public List<T> things { get; set; }
+        public List<T> Things { get; set; }
     }
+
 }
