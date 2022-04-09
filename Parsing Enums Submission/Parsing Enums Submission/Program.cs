@@ -9,13 +9,12 @@ namespace Parsing_Enums_Submission
             try
             {
                 Console.WriteLine("What day is today?");
-                string day1 = Console.ReadLine();
+                string day2 = Console.ReadLine();
+                string day1 = char.ToUpper(day2[0]) + day2.Substring(1);
+                DaysOfTheWeek days = (DaysOfTheWeek)Enum.Parse(typeof(DaysOfTheWeek), day1);
 
-                for (int i = 0; i < 7; i++)
-                {
-                    DaysOfTheWeek day = (DaysOfTheWeek)i;
-                    
-                }
+                Console.WriteLine(days);
+             
                 
             }
             catch

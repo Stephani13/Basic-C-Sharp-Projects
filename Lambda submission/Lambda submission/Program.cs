@@ -11,14 +11,24 @@ namespace Lambda_submission
             Listing listing = new Listing();
 
 
-            foreach (Employee employee in listing.Employees)
-            {
-                //Console.WriteLine(employee.FirstName + employee.LastName + " " + employee.Id);
-            }
-            //use lambda to get employees with a first name of Joe
-            int count = listing.Employees.Count(x => x.FirstName == "Joe");
 
-            Console.WriteLine("There are " + count + " employees with a first name of 'Joe'.\n");
+
+
+            //use lambda to get employees with a first name of Joe
+            List<Employee> newList = listing.Employees.FindAll(x => x.FirstName == "Joe").ToList();
+            Console.WriteLine("Thesee are the employees with a first name of 'Joe':\n");
+            foreach (Employee employee in newList)
+            {
+                Console.WriteLine(employee);
+            }
+
+            foreach (Employee employee in listing.Employees.FindAll(x => x.FirstName == "Joe"))
+            {
+                
+            }
+
+
+
 
             //gets the employees with an id greather than 5
             Console.WriteLine("Employee with an Id greather than 5: \n");
