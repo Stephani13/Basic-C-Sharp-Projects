@@ -1,0 +1,23 @@
+﻿@model IEnumerable<CarInsurance.Models.Insuree>
+
+
+<h2>Admin</h2>
+
+<table class="table">
+    @foreach (var insuree in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => insuree.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => insuree.LastName)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => insuree.Quote)
+            </td>
+
+        </tr>
+    }
+</table>
